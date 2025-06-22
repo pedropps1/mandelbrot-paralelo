@@ -76,13 +76,6 @@ Durante os testes, foram medidos:
 
 Imagem do conjunto de Mandelbrot gerado com smooth coloring utilizando GPU.
 
-
-## 📸 Exemplos de Saída
-
-![GPU Output](mandelbrot_gpu_4k.png)
-
-Imagem do conjunto de Mandelbrot gerado com smooth coloring utilizando GPU.
-
 ---
 
 ## 🛠️ Como Executar
