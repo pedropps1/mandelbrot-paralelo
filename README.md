@@ -75,12 +75,3 @@ Durante os testes, foram medidos:
 ![GPU Output](MandelbrotSet/mandelbrot_gpu_4k.png)
 
 Imagem do conjunto de Mandelbrot gerado com smooth coloring utilizando GPU.
-
----
-
-## 🛠️ Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/pedropps1/mandelbrot-paralelo.git
-   cd nome-repositorio
