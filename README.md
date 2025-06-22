@@ -62,11 +62,24 @@ Durante os testes, foram medidos:
 - Speedup em relação à versão sequencial
 - Eficiência relativa (speedup/unidades de execução)
 
+### Visualizações:
+
+![Tempo de Execução](MandelbrotSet/benchmark_tempo_execucao.png)
+![Speedup](MandelbrotSet/benchmark_speedup.png)
+![Eficiência](MandelbrotSet/benchmark_eficiencia.png)
+
 ---
 
 ## 📸 Exemplos de Saída
 
-![GPU Output](mandelbrot_gpu_smooth_best.png)
+![GPU Output](MandelbrotSet/mandelbrot_gpu_4k.png)
+
+Imagem do conjunto de Mandelbrot gerado com smooth coloring utilizando GPU.
+
+
+## 📸 Exemplos de Saída
+
+![GPU Output](mandelbrot_gpu_4k.png)
 
 Imagem do conjunto de Mandelbrot gerado com smooth coloring utilizando GPU.
 
